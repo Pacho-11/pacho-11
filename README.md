@@ -37,13 +37,6 @@
 
 ---
 
-### GitHub Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pacho-11&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacho-11&layout=compact&theme=tokyonight&hide_border=true" />
-
----
-
 ### Connect with Me
 
 <p align="left">
