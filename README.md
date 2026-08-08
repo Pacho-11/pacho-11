@@ -4,9 +4,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
+
 ## Sobre mí
 
 Based in **Peru**
+&nbsp;•&nbsp;
+Young developer, always eager to **learn** and **build new things**
 &nbsp;•&nbsp;
 Interested in **Software Development**, **Data Analysis** & **Automation**
 &nbsp;•&nbsp;
@@ -53,18 +57,40 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
 
+**Currently Learning**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pacho-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacho-11&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacho-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pacho-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" height="110"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pacho-11&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 
 ## Connect with Me
 
 <a href="mailto:gsflorespa@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="https://www.linkedin.com/in/gadiel-samuel-flores-pacho-54b85041b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/g_pacho__/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/pacho-11">
+  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pacho-11&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
 
 <br><br>
 
