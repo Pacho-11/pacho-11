@@ -69,8 +69,6 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
 
 <img src="https://github-profile-trophy.vercel.app/?username=pacho-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" height="110"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pacho-11&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
-
 ## Connect with Me
 
 <a href="mailto:gsflorespa@gmail.com">
@@ -88,7 +86,7 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=pacho-11&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=pacho-11&label=Profile+Views&color=8B5CF6&style=flat-square&labelColor=8B5CF6" alt="Profile Views"/>
 
 <br><br>
 
