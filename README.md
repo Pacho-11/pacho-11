@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Pacho&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20%26%20Python%20%7C%20Trading%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Pacho&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20Analysis%20%7C%20Trading%20Systems&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
 
 ## Sobre mí
 
@@ -18,8 +16,6 @@ Passionate about building functional tools, scripts and full-stack projects
 &nbsp;•&nbsp;
 Fun fact: always looking for ways to optimize and streamline complex tasks
 
-<br>
-
 ## Tech Stack
 
 **Languages**
@@ -31,8 +27,6 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
 <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
 
-<br><br>
-
 **Frameworks & Libraries**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -41,16 +35,12 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 
-<br><br>
-
 **Databases**
 <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-
-<br><br>
 
 **Tools & Environments**
 <br>
@@ -63,18 +53,12 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
 
-<br>
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=pacho-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacho-11&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
 
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacho-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800" height="165"/>
-
-<br>
 
 ## Connect with Me
 
