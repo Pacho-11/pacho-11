@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
-
 ## Sobre mí
 
 Based in **Peru**
@@ -88,7 +86,7 @@ Fun fact: always looking for ways to optimize and streamline complex tasks
   <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=pacho-11&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile Views"/>
 
