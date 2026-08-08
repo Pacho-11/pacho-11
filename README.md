@@ -16,7 +16,7 @@ Exploring **Financial Markets**, **Prediction Markets** & **Algorithmic Trading*
 &nbsp;•&nbsp;
 Passionate about building functional tools, scripts and full-stack projects
 &nbsp;•&nbsp;
-Fun fact: always looking for ways to optimize and streamline complex tasks
+Fun fact: always looking for ways to optimize task
 
 ## Tech Stack
 
