@@ -1,46 +1,73 @@
-<h1 align="center">Hi there, I'm Pacho</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Development | Data & Python | Trading Systems & Automation</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Pacho&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20%26%20Python%20%7C%20Trading%20Systems&descAlignY=58&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;Python+%7C+JS+%7C+HTLM5;Automation+scripts+" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
 
----
+</div>
 
-### About Me
+<br>
 
-- 🇵🇪 Based in **Peru**.
-- Interested in **Software Development**, **Data Analysis**, and **Automation**.
-- Exploring **Financial Markets**, **Prediction Markets**, and **Algorithmic Trading**.
-- Passionate about building functional tools, scripts, and full-stack projects.
-- Fun fact: Always looking for ways to optimize, automate, and streamline complex tasks!
+## Sobre mí
 
----
+▹ Based in **Peru**
+<br>
+▹ Interested in **Software Development**, **Data Analysis** & **Automation**
+<br>
+▹ Exploring **Financial Markets**, **Prediction Markets** & **Algorithmic Trading**
+<br>
+▹ Passionate about building functional tools, scripts and full-stack projects
+<br>
+▹ Fun fact: always looking for ways to optimize and streamline complex tasks
 
-### Tech Stack & Tools
+<br>
 
-#### **Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech Stack
 
-#### **Tools & Environments**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="left">
 
----
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
 
-### Connect with Me
+<br><br>
 
-<p align="left">
+**Tools & Environments**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+</div>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pacho-11&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&icon_color=475569&text_color=334155" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacho-11&hide_border=true&background=00000000&stroke=00000000&ring=475569&fire=475569&currStreakLabel=0f172a" height="165"/>
+</div>
+
+<br>
+
+## Connect with Me
+
+<div align="left">
   <a href="mailto:gsflorespa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
+</div>
