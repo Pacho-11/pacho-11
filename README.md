@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Pacho&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20%26%20Python%20%7C%20Trading%20Systems&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Pacho&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20Data%20%26%20Python%20%7C%20Trading%20Systems&descAlignY=58&descSize=16&descColor=FFFFFF" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=94A3B8&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+automation+scripts;Python+%7C+JavaScript+%7C+HTML5;Exploring+algorithmic+trading" alt="Typing SVG" />
 
 </div>
 
@@ -10,15 +10,11 @@
 
 ## Sobre mí
 
-▹ Based in **Peru**
-<br>
-▹ Interested in **Software Development**, **Data Analysis** & **Automation**
-<br>
-▹ Exploring **Financial Markets**, **Prediction Markets** & **Algorithmic Trading**
-<br>
-▹ Passionate about building functional tools, scripts and full-stack projects
-<br>
-▹ Fun fact: always looking for ways to optimize and streamline complex tasks
+- Based in **Peru**
+- Interested in **Software Development**, **Data Analysis** & **Automation**
+- Exploring **Financial Markets**, **Prediction Markets** & **Algorithmic Trading**
+- Passionate about building functional tools, scripts and full-stack projects
+- Fun fact: always looking for ways to optimize and streamline complex tasks
 
 <br>
 
@@ -52,8 +48,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pacho-11&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0f172a&icon_color=475569&text_color=334155" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacho-11&hide_border=true&background=00000000&stroke=00000000&ring=475569&fire=475569&currStreakLabel=0f172a" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pacho-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pacho-11&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacho-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 </div>
 
 <br>
@@ -62,12 +62,12 @@
 
 <div align="left">
   <a href="mailto:gsflorespa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
 </div>
